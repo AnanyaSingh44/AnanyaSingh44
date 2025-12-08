@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ananya+👋;Full-stack+%26+Backend+Developer;Building+cool+projects+and+learning+GenAI)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.imgur.com/o3mLQK7.gif" width="70%" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxOTM0ODcsIm5iZiI6MTc2NTE5MzE4NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjA4VDExMjYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyZWZhY2U5YmUwMjM5NGU0YjlhYzM2MWIzOGRkOWZlZjk0MTNjNWY4YWM4NDM0N2VkYzNiZGQzOWZiMWVkNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BAs2xHPc9P9F6cLKcVMB0zxbm63WvHmjVMrpunZ6mFYf" width="70%" />
 </p>
 
 
