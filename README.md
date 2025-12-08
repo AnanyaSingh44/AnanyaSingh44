@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ananya+👋;Full-stack+%26+Backend+Developer;Building+cool+projects+and+learning+GenAI)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://i.imgur.com/Ay7gYAG.gif" width="70%" />
+</p>
+
 ---
 
 ## 👩‍💻 About Me
