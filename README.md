@@ -37,10 +37,18 @@
 
 
 ## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaSingh44&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSingh44&layout=compact&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AnanyaSingh44&show_icons=true&include_all_commits=true&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSingh44&layout=compact&langs_count=6&theme=tokyonight" 
+    height="165"
+  />
 </p>
+
 
 ---
 
