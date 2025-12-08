@@ -1,8 +1,12 @@
-<h1 align="center">✨ Hey, I'm Ananya Singh ✨</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com
+?font=Fira+Code
+&size=26
+&pause=1200
+&center=true
+&vCenter=true
+&width=700
+&lines=Hey%2C+I'm+Ananya+👋;Full-stack+%26+Android+Developer;Building+cool+projects+and+learning+GenAI)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnanyaSingh44/AnanyaSingh44/main/assets/banner.gif" width="70%" alt="profile banner"/>
-</p>
 
 ---
 
