@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">✨ Hey, I'm Ananya Singh ✨</h1>
 
-<!--
-**AnanyaSingh44/AnanyaSingh44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnanyaSingh44/AnanyaSingh44/main/assets/banner.gif" width="70%" alt="profile banner"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 💡 Passionate **Backend Developer** & **Full-Stack Engineer**
+- 🔥 Building projects with **Mern_Stack**, **Next.js**, **PostgreSQL**, **Prisma**
+- 🤖 Exploring **GenAI**, **LLMs**, **LangChain**, and automations
+- 🧠 Love understanding how systems work at scale  
+- 🌱 Always learning & experimenting (breaking → fixing → mastering)
+
+---
+
+## 🧰 Tech Toolbox
+
+### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,nextjs,nodejs" height="45"/>
+</p>
+
+### **Backend • Databases • Infra**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,express,redis" height="45"/>
+</p>
+
+### **Cloud • DevOps • Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,linux,docker,vercel" height="45"/>
+</p>
+
+---
+
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaSingh44&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSingh44&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/ananya-singh-3a19b22ba/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="ananyasingth123@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+</p>
+
+---
+
+<p align="center"><i>"Learning, building, improving — one commit at a time."</i></p>
