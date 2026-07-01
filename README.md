@@ -35,117 +35,104 @@
 </p>
 
 ---
+<div align="center">
 
 # 🚀 Featured Projects
 
+*A selection of things I've built*
+
+</div>
+
+<br>
+
 <table>
 <tr>
+<td width="33%" valign="top">
+<div align="center">
 
-<td width="50%" valign="top">
+### 🤖 Contextly
+**RAG-powered Copilot**
 
-## 🤖 Contextly
-**Copilot-Style RAG System**
+</div>
 
-Build an AI-powered Copilot capable of answering questions across GitHub repositories, uploaded documents, and web content using Retrieval-Augmented Generation (RAG).
+Answers questions across GitHub repos, docs, and web content using Retrieval-Augmented Generation.
 
-**✨ Highlights**
-- 🔍 Context-aware retrieval with vector search
-- 🧠 HyDE query expansion (45% → 82% Top-3 accuracy)
+- 🔍 Vector search + HyDE query expansion — **45% → 82%** Top-3 accuracy
 - 💬 Multi-thread conversations
-- 🔐 Email OTP, Magic Link & Session Management
+- 🔐 OTP & Magic Link auth
 
-**🛠️ Tech**
-`Next.js` `React` `LangChain`
-`Gemini` `Groq`
-`Qdrant` `Prisma`
-`PostgreSQL`
-
-🔗 **Live Demo:** https://...
 <br>
-📂 **Repository:** https://github.com/yourusername/contextly
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+<div align="center">
+
+[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/contextly)
+
+</div>
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<div align="center">
 
-## 🚨 Women Safety Platform
-**AI-Powered Safety & Complaint Portal**
+### 🚨 Women Safety Platform
+**AI Safety & Complaint Portal**
 
-A secure platform enabling anonymous and authenticated complaint reporting with AI-assisted case prioritization and officer dashboard.
+</div>
 
-**✨ Highlights**
+Anonymous complaint reporting with AI-assisted case prioritization and an officer dashboard.
+
 - 🛡️ Anonymous complaint system
-- 📍 SOS alerts with geolocation
-- 🤖 AI urgency scoring
-- 👮 Officer dashboard
-- 💬 Community support forum
+- 📍 SOS alerts with live geolocation
+- 🤖 AI urgency scoring for cases
 
-**🛠️ Tech**
-`Next.js`
-`React`
-`MongoDB`
-`Better Auth`
-`Groq`
-`Tailwind CSS`
-
-🔗 **Live Demo:** https://...
 <br>
-📂 **Repository:** https://github.com/yourusername/women-safety
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better%20Auth-000000?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+<div align="center">
+
+[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/women-safety)
+
+</div>
 </td>
 
-</tr>
+<td width="33%" valign="top">
+<div align="center">
 
-<tr>
+### 🌍 Eko
+**Crisis Response Platform**
 
-<td width="50%" valign="top">
+</div>
 
-## 🌍 Eko
-**Crisis Response & Fact-Checking Platform**
+Connects citizens, NGOs, and government agencies during emergencies with AI fact-checking.
 
-A real-time platform connecting citizens, NGOs, and government agencies during emergencies with AI-assisted fact verification.
-
-**✨ Highlights**
-- 📰 Social feed for crisis updates
-- 🤖 Gemini-powered AI assistant
-- ✅ AI fact-checking
+- ✅ AI-powered fact-checking
 - 🚫 Hate speech & spam moderation
-- 🤝 NGO & Government coordination
+- 🤝 NGO & government coordination
 
-**🛠️ Tech**
-`Next.js`
-`MongoDB`
-`Gemini AI`
-`Clerk`
-`Hugging Face`
-`Tailwind CSS`
-
-🔗 **Live Demo:** https://...
 <br>
-📂 **Repository:** https://github.com/yourusername/eko
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+
+<div align="center">
+
+[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/eko)
+
+</div>
 </td>
-
-<td width="50%" valign="top">
-
-## 🏆 Achievements
-
-⭐ **950+** LeetCode Problems Solved  
-👑 Knight (**1904 Max Rating**)
-
-⭐ **CodeChef 3★**
-(**1629 Max Rating**)
-
-🥇 Winner — WomenInDev Hackathon
-
-🥈 IIIT Nagpur Website Hackathon
-
-🚀 Deloitte Haxplosion Semifinalist
-
-</td>
-
 </tr>
-
 </table>
 
 ## 📊 GitHub Insights
