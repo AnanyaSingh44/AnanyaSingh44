@@ -71,7 +71,7 @@ Answers questions across GitHub repos, docs, and web content using Retrieval-Aug
 
 <div align="center">
 
-[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/contextly)
+[**🔗 Live Demo**]([https://...](https://contextlyy.vercel.app/)) &nbsp;
 
 </div>
 </td>
@@ -100,7 +100,7 @@ Anonymous complaint reporting with AI-assisted case prioritization and an office
 
 <div align="center">
 
-[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/women-safety)
+[**🔗 Live Demo**](https://streesakhi.vercel.app/) &nbsp;
 
 </div>
 </td>
@@ -128,7 +128,7 @@ Connects citizens, NGOs, and government agencies during emergencies with AI fact
 
 <div align="center">
 
-[**🔗 Live Demo**](https://...) &nbsp;·&nbsp; [**📂 Repository**](https://github.com/yourusername/eko)
+[**🔗 Live Demo**](https://ekoapp.vercel.app/) &nbsp;
 
 </div>
 </td>
