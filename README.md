@@ -36,6 +36,118 @@
 
 ---
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 Contextly
+**Copilot-Style RAG System**
+
+Build an AI-powered Copilot capable of answering questions across GitHub repositories, uploaded documents, and web content using Retrieval-Augmented Generation (RAG).
+
+**✨ Highlights**
+- 🔍 Context-aware retrieval with vector search
+- 🧠 HyDE query expansion (45% → 82% Top-3 accuracy)
+- 💬 Multi-thread conversations
+- 🔐 Email OTP, Magic Link & Session Management
+
+**🛠️ Tech**
+`Next.js` `React` `LangChain`
+`Gemini` `Groq`
+`Qdrant` `Prisma`
+`PostgreSQL`
+
+🔗 **Live Demo:** https://...
+<br>
+📂 **Repository:** https://github.com/yourusername/contextly
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚨 Women Safety Platform
+**AI-Powered Safety & Complaint Portal**
+
+A secure platform enabling anonymous and authenticated complaint reporting with AI-assisted case prioritization and officer dashboard.
+
+**✨ Highlights**
+- 🛡️ Anonymous complaint system
+- 📍 SOS alerts with geolocation
+- 🤖 AI urgency scoring
+- 👮 Officer dashboard
+- 💬 Community support forum
+
+**🛠️ Tech**
+`Next.js`
+`React`
+`MongoDB`
+`Better Auth`
+`Groq`
+`Tailwind CSS`
+
+🔗 **Live Demo:** https://...
+<br>
+📂 **Repository:** https://github.com/yourusername/women-safety
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌍 Eko
+**Crisis Response & Fact-Checking Platform**
+
+A real-time platform connecting citizens, NGOs, and government agencies during emergencies with AI-assisted fact verification.
+
+**✨ Highlights**
+- 📰 Social feed for crisis updates
+- 🤖 Gemini-powered AI assistant
+- ✅ AI fact-checking
+- 🚫 Hate speech & spam moderation
+- 🤝 NGO & Government coordination
+
+**🛠️ Tech**
+`Next.js`
+`MongoDB`
+`Gemini AI`
+`Clerk`
+`Hugging Face`
+`Tailwind CSS`
+
+🔗 **Live Demo:** https://...
+<br>
+📂 **Repository:** https://github.com/yourusername/eko
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏆 Achievements
+
+⭐ **950+** LeetCode Problems Solved  
+👑 Knight (**1904 Max Rating**)
+
+⭐ **CodeChef 3★**
+(**1629 Max Rating**)
+
+🥇 Winner — WomenInDev Hackathon
+
+🥈 IIIT Nagpur Website Hackathon
+
+🚀 Deloitte Haxplosion Semifinalist
+
+</td>
+
+</tr>
+
+</table>
+
 ## 📊 GitHub Insights
 
 <p align="center">
