@@ -71,7 +71,7 @@ Answers questions across GitHub repos, docs, and web content using Retrieval-Aug
 
 <div align="center">
 
-[**🔗 Live Demo**]([https://...](https://contextlyy.vercel.app/)) &nbsp;
+[**🔗 Live Demo**](https://contextlyy.vercel.app/) &nbsp;
 
 </div>
 </td>
